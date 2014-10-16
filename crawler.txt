@@ -1,0 +1,27 @@
+http://en.wikipedia.org/wiki/ACM_Computing_Classification_System
+> http://en.wikipedia.org/wiki/Academic_genealogy_of_computer_scientists
+> http://en.wikipedia.org/wiki/Acoustical_engineering
+> http://en.wikipedia.org/wiki/Artificial_intelligence
+/en.wikipedia.org/wiki/Audio_engineer
+> http://en.wikipedia.org/wiki/Automatic_summarization
+> http://en.wikipedia.org/wiki/Cheminformatics
+> http://en.wikipedia.org/wiki/Computer_music
+> http://en.wikipedia.org/wiki/DBLP
+> http://en.wikipedia.org/wiki/Database_model
+> http://en.wikipedia.org/wiki/Google
+> http://en.wikipedia.org/wiki/Information_theory
+> http://en.wikipedia.org/wiki/Journal_of_Documentation
+> http://en.wikipedia.org/wiki/List_of_computer_science_conferences
+> http://en.wikipedia.org/wiki/List_of_computer_scientists
+> http://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science
+> http://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science
+> http://en.wikipedia.org/wiki/Machine_learning
+< http://en.wikipedia.org/wiki/Memory
+> http://en.wikipedia.org/wiki/Metadata
+> http://en.wikipedia.org/wiki/Mutual_information
+> http://en.wikipedia.org/wiki/Outline_of_computer_science
+> http://en.wikipedia.org/wiki/Query_language
+> http://en.wikipedia.org/wiki/Ranking_(information_retrieval)105a128
+> http://en.wikipedia.org/wiki/Stop_words
+> http://en.wikipedia.org/wiki/Text_mining
+> http://en.wikipedia.org/wiki/Theoretical_computer_science
